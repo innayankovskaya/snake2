@@ -1,0 +1,7 @@
+python
+c
+2
+1
+java
+5
+3
